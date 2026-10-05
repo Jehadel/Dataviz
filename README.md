@@ -22,18 +22,18 @@ Cours Dataviz pour M2 IEA - Ynov campus Aix
   
   d. [Cadrage des projets](https://github.com/Jehadel/Dataviz/blob/main/Cadrage%20des%20projets.pdf)
 
-3. Séance 2 / jour 2
+2. Séance 2 / jour 2
 
-   a. [Accessibilité, interactivité, éthiques]()
+  a. [Accessibilité, interactivité, éthiques]()
 
-   b. [Notebook de démonstration : interactivité avec Altair, accessibilité]()
+  b. [Notebook de démonstration : interactivité avec Altair, accessibilité]()
 
-4. Séance 3 / jour 3
+3. Séance 3 / jour 3
 
-   a. [Dashboarding]()
+  a. [Dashboarding]()
 
-   b. [Communication / Data Storytelling]()
+  b. [Communication / Data Storytelling]()
 
-5. Évaluations / projets
+4. Évaluations / projets
 
-   a. [Grille de co-évaluation]()
+  a. [Grille de co-évaluation]()
