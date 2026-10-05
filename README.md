@@ -7,18 +7,18 @@ Cours Dataviz pour M2 IEA - Ynov campus Aix
    
   a. [Rappels et généralités]()
     
-    - historique    
-    - format de données / types de graphes
-    - data storytelling
-    - bases cognitives et ergonomiques
-    - théorie de la perception et de l’encodage
-    - Gestalt (loi)
-    - Grammaires de visualisation, ggplot2/Plotnine, Vega-lite/Altair
-    - Outils en dataviz : Metabase/Superset, PowerBI/Tableau, Altair/Plotnine, Dash/Plotly, stack geospatiale,
+   - historique    
+   - format de données / types de graphes
+   - data storytelling
+   - bases cognitives et ergonomiques
+   - théorie de la perception et de l’encodage
+   - Gestalt (loi)
+   - Grammaires de visualisation, ggplot2/Plotnine, Vega-lite/Altair
+   - Outils en dataviz : Metabase/Superset, PowerBI/Tableau, Altair/Plotnine, Dash/Plotly, stack geospatiale,
   
   b. [Notebook de démonstration : Altair vs Plotnine](https://github.com/Jehadel/Dataviz/blob/main/altair_vs_plotnine_demo.ipynb)
   
-  c. [Projets]()
+  c. [Projets](https://github.com/Jehadel/Dataviz/blob/main/Projets.pdf)
   
   d. [Cadrage des projets](https://github.com/Jehadel/Dataviz/blob/main/Cadrage%20des%20projets.pdf)
 
