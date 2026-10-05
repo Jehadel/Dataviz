@@ -20,7 +20,7 @@ Cours Dataviz pour M2 IEA - Ynov campus Aix
   
   c. [Projets]()
   
-  d. [Cadrage des projets]()
+  d. [Cadrage des projets](https://github.com/Jehadel/Dataviz/blob/main/Cadrage%20des%20projets.pdf)
 
 3. Séance 2 / jour 2
 
