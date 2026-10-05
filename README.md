@@ -5,7 +5,7 @@ Cours Dataviz pour M2 IEA - Ynov campus Aix
 
 1. Séance 1 / jour 1
    
-  a. [Rappels et généralités]()
+  a. [Rappels et généralités](https://github.com/Jehadel/Dataviz/blob/main/Concevoir%20une%20data%20viz%201%20_%20rappels%20-%20g%C3%A9n%C3%A9ralit%C3%A9s.pdf)
     
    - historique    
    - format de données / types de graphes
