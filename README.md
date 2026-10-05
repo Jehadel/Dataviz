@@ -7,10 +7,8 @@ Cours Dataviz pour M2 IEA - Ynov campus Aix
    
   a. [Rappels et généralités]()
     
-    * historique
-    
+    - historique    
     - format de données / types de graphes
-    
     - data storytelling
     - bases cognitives et ergonomiques
     - théorie de la perception et de l’encodage
