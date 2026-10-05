@@ -24,16 +24,16 @@ Cours Dataviz pour M2 IEA - Ynov campus Aix
 
 2. Séance 2 / jour 2
 
-  a. [Accessibilité, interactivité, éthiques]()
+  a. Accessibilité, interactivité, éthique
 
-  b. [Notebook de démonstration : interactivité avec Altair, accessibilité]()
+  b. Notebook de démonstration : interactivité avec Altair, accessibilité
 
 3. Séance 3 / jour 3
 
-  a. [Dashboarding]()
+  a. Dashboarding
 
-  b. [Communication / Data Storytelling]()
+  b. Communication / Data Storytelling
 
 4. Évaluations / projets
 
-  a. [Grille de co-évaluation]()
+  a. Grille de co-évaluation
