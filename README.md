@@ -6,6 +6,7 @@ Cours Dataviz pour M2 IEA - Ynov campus Aix
 1. Séance 1 / jour 1
    
   a. [Rappels et généralités]()
+    
     - historique
     - format de données / types de graphes
     - data storytelling
