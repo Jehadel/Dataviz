@@ -22,6 +22,12 @@ Cours Dataviz pour M2 IEA - Ynov campus Aix
   
   d. [Cadrage des projets](https://github.com/Jehadel/Dataviz/blob/main/Cadrage%20des%20projets.pdf)
 
+  e. Ressources issues d’autres cours
+
+   - [Données géospatiales](https://github.com/Jehadel/Dataviz/blob/main/Geospatial-dataviz-maps.ipynb)
+   - [Introduction à Dash](https://github.com/Jehadel/Dataviz/blob/main/Introduction-to-dash.ipynb)
+   - Guides pour installer des images Superset et Metabase et les prendre en main : [1](https://github.com/Jehadel/Dataviz/blob/main/TP_0_installation_prerequis-FINAL.md) [2](https://github.com/Jehadel/Dataviz/blob/main/TP_2_metabase-instacart.md) [3](https://github.com/Jehadel/Dataviz/blob/main/TP_3_superset-instacart.md) [4](https://github.com/Jehadel/Dataviz/blob/main/TP_3_superset-instacart.md)
+
 2. Séance 2 / jour 2
 
   a. Accessibilité, interactivité, éthique
