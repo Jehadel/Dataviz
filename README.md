@@ -14,7 +14,7 @@ Cours Dataviz pour M2 IEA - Ynov campus Aix
    - théorie de la perception et de l’encodage
    - Gestalt (loi)
    - Grammaires de visualisation, ggplot2/Plotnine, Vega-lite/Altair
-   - Outils en dataviz : Metabase/Superset, PowerBI/Tableau, Altair/Plotnine, Dash/Plotly, stack geospatiale,
+   - [Outils en dataviz](https://github.com/Jehadel/Dataviz/blob/main/Outils-Dataviz.md) : Metabase/Superset, PowerBI/Tableau, Altair/Plotnine, Dash/Plotly, stack geospatiale, etc.
   
   b. [Notebook de démonstration : Altair vs Plotnine](https://github.com/Jehadel/Dataviz/blob/main/altair_vs_plotnine_demo.ipynb)
   
