@@ -43,7 +43,13 @@ Cours Dataviz pour M2 IEA - Ynov campus Aix
    - Palettes
    - Optimisations
      
-  c. Accessibilité & éthique
+  c. [Accessibilité & éthique](https://github.com/Jehadel/Dataviz/blob/main/Concevoir%20une%20dataviz%20_%20accessibilit%C3%A9%20et%20%C3%A9thique.pdf)
+   - Déficiences visuelles
+   - Outils contraste et couleurs
+   - Accessibilité structurelle
+   - Audit (Chartability)
+   - Redondance d’encodage
+   - Éthique : troncature d’axe, échelles trompeuses, incertitudes, corrélations
 
   b. Notebook de démonstration : interactivité avec Altair, accessibilité
 
