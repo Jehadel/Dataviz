@@ -33,6 +33,7 @@ Cours Dataviz pour M2 IEA - Ynov campus Aix
   a. Accessibilité, interactivité, éthique
   
    - [Interactivité](https://github.com/Jehadel/Dataviz/blob/main/Concevoir%20une%20dataviz%202%20_%20interactivit%C3%A9.pdf)
+   - Dashboarding
    - Accessibilité
    - Éthique
 
@@ -40,9 +41,7 @@ Cours Dataviz pour M2 IEA - Ynov campus Aix
 
 3. Séance 3 / jour 3
 
-  a. Dashboarding
-
-  b. Communication / Data Storytelling
+  a. Communication / Data Storytelling
 
 4. Évaluations / projets
 
