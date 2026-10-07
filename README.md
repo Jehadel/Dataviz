@@ -34,6 +34,7 @@ Cours Dataviz pour M2 IEA - Ynov campus Aix
    - Mantra et taxonomie de Schneiderman
    - Patterns d’interaction : brushing & linking, drill-down, small-multiples/facets, filters
    - Affordances et singifiants
+     
   b. [Dashboarding](https://github.com/Jehadel/Dataviz/blob/main/Dashboarding.pdf)
    - Public cible
    - Écran unique, onglets, scroll
@@ -41,6 +42,7 @@ Cours Dataviz pour M2 IEA - Ynov campus Aix
    - Hiérarchie visuelle / layout
    - Palettes
    - Optimisations
+     
   c. Accessibilité & éthique
 
   b. Notebook de démonstration : interactivité avec Altair, accessibilité
