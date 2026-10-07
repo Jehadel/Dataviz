@@ -30,12 +30,18 @@ Cours Dataviz pour M2 IEA - Ynov campus Aix
 
 2. Séance 2 / jour 2
 
-  a. Accessibilité, interactivité, éthique
-  
-   - [Interactivité](https://github.com/Jehadel/Dataviz/blob/main/Concevoir%20une%20dataviz%202%20_%20interactivit%C3%A9.pdf)
-   - Dashboarding
-   - Accessibilité
-   - Éthique
+  a. [Interactivité](https://github.com/Jehadel/Dataviz/blob/main/Concevoir%20une%20dataviz%202%20_%20interactivit%C3%A9.pdf)
+   - Mantra et taxonomie de Schneiderman
+   - Patterns d’interaction : brushing & linking, drill-down, small-multiples/facets, filters
+   - Affordances et singifiants
+  b. [Dashboarding](https://github.com/Jehadel/Dataviz/blob/main/Dashboarding.pdf)
+   - Public cible
+   - Écran unique, onglets, scroll
+   - Densité, ink/data ratio
+   - Hiérarchie visuelle / layout
+   - Palettes
+   - Optimisations
+  c. Accessibilité & éthique
 
   b. Notebook de démonstration : interactivité avec Altair, accessibilité
 
