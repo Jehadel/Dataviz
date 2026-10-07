@@ -31,6 +31,10 @@ Cours Dataviz pour M2 IEA - Ynov campus Aix
 2. Séance 2 / jour 2
 
   a. Accessibilité, interactivité, éthique
+  
+   - [Interactivité](https://github.com/Jehadel/Dataviz/blob/main/Concevoir%20une%20dataviz%202%20_%20interactivit%C3%A9.pdf)
+   - Accessibilité
+   - Éthique
 
   b. Notebook de démonstration : interactivité avec Altair, accessibilité
 
