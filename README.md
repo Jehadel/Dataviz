@@ -51,7 +51,7 @@ Cours Dataviz pour M2 IEA - Ynov campus Aix
    - Redondance d’encodage
    - Éthique : troncature d’axe, échelles trompeuses, incertitudes, corrélations
 
-  b. Notebook de démonstration : interactivité avec Altair, accessibilité
+  d. [Notebook de démonstration](https://github.com/Jehadel/Dataviz/blob/main/altair_vs_plotnine_demo.ipynb) : interactivité avec Altair, accessibilité
 
 3. Séance 3 / jour 3
 
