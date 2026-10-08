@@ -55,7 +55,7 @@ Cours Dataviz pour M2 IEA - Ynov campus Aix
 
 3. Séance 3 / jour 3
 
-  a. Communication / Data Storytelling
+  a. [Communication / Data Storytelling](https://github.com/Jehadel/Dataviz/blob/main/Communication%20-%20Storytelling.pdf)
 
 4. Évaluations / projets
 
