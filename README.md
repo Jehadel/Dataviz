@@ -61,4 +61,4 @@ Cours Dataviz pour M2 IEA - Ynov campus Aix
 
   a. [Modalités d’évaluation](https://github.com/Jehadel/Dataviz/blob/main/Modalit%C3%A9s%20d%E2%80%99%C3%A9valuation.md)
   
-  b. Grille de co-évaluation
+  b. [Grille de co-évaluation](https://github.com/Jehadel/Dataviz/blob/main/grille_evaluation_pairs_final-version-etudiant-e-s.md)
